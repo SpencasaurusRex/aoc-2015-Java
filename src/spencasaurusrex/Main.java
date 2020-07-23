@@ -52,6 +52,9 @@ public class Main {
                 case 1:
                     Day1.solve(inputText);
                     break;
+                case 2:
+                    Day2.solve(inputText);
+                    break;
                 default:
                     System.out.println("Day not implemented");
             }
